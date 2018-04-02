@@ -5,6 +5,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: http://allocations-pal-mplj
+    REGISTRATION_SERVER_ENDPOINT: http://registration-pal-mplj.apps.longs.pal.pivotal.io0
   services:
   - tracker-allocations-database
